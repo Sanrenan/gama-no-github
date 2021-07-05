@@ -1,0 +1,1 @@
+Eu estou adorando aprender git com vocês. É uma maneira muito simples. No modulo anterior eu fui apresentado ao site do uri e isso expandiu meus horizontes.
